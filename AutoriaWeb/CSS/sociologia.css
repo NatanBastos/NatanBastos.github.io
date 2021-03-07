@@ -1,0 +1,21 @@
+body{
+    background-image: url(../Imagens/Parede.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h2{
+    color: aqua;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 15pt;
+}
+p{
+    color: aquamarine;
+    text-align: center;
+    font-family: Verdana; 
+    font-size: 12pt;
+}
+a{
+    color: chartreuse;
+}

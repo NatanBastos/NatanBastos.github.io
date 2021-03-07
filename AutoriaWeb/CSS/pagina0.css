@@ -1,0 +1,23 @@
+body{
+    background-image: url(../Imagens/Basquete.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    color: darkred;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 18pt;
+}
+.SOCIO{
+    left: 8%;
+    position: absolute;
+}
+.FILO {
+    right: 8%;
+    position: absolute;
+}
+p{
+    color: azure;
+}
